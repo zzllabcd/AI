@@ -15,3 +15,25 @@
 12、OLAMI 欧拉密 AI(https://cn.olami.ai/open/website/home/home_show)</br>
 13、讯飞 AI(https://www.xfyun.cn/)</br>
 14、Azure AI(https://azure.microsoft.com/zh-cn/overview/ai-platform/)</br>
+
+
+机器学习平台
+===========================================
+1、百度BML(https://cloud.baidu.com/product/bml.html)<br>
+2、百度infinite(https://cloud.baidu.com/product/infinite.html)<br>
+3、阿里PAI(https://data.aliyun.com/product/learn)
+4、腾讯Ti(https://tio.cloud.tencent.com/)
+5、同盾机器学习平台(https://www.tongdun.cn/product/coreFunc/machineLearn)
+6、苏宁机器学习平台(http://www.suningcloud.com/solution/detail/id_261.html)
+7、京东机器学习平台(http://quickai.jd.com)
+8、金山机器学习平台(https://www.ksyun.com/post/product/KML)
+9、微软Azure ML(https://azure.microsoft.com/zh-cn/services/machine-learning-studio/)
+10、联想机器学习平台(https://bigdata.lenovo.com/leapHyperMiner.html)
+11、R2(https://r2ai.com.cn/)
+
+AI框架<br>
+===========================================
+Tensorflow
+SparkMLlib
+Pytorch
+MxNet

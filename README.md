@@ -30,10 +30,24 @@
 9、微软Azure ML(https://azure.microsoft.com/zh-cn/services/machine-learning-studio/)<br>
 10、联想机器学习平台(https://bigdata.lenovo.com/leapHyperMiner.html)<br>
 11、R2(https://r2ai.com.cn/)<br>
+12、H2O(
 
-AI框架<br>
+AI开发框架<br>
 ===========================================
-Tensorflow
-SparkMLlib
-Pytorch
-MxNet
+Tensorflow<br>
+SparkMLlib<br>
+Pytorch<br>
+MxNet<br>
+sklearn<br>
+
+
+
+开源NLP库
+============================================
+开源NLP（自然语言处理）库的功能对比
+
+Spark NLP
+spaCy
+NLTK
+OpenNLP
+Stanford CoreNLP

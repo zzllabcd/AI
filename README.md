@@ -44,10 +44,19 @@ sklearn<br>
 
 开源NLP库
 ============================================
-开源NLP（自然语言处理）库的功能对比
+开源NLP（自然语言处理）库的功能对比<br>
 
-Spark NLP
-spaCy
-NLTK
-OpenNLP
-Stanford CoreNLP
+Spark NLP<br>
+spaCy<br>
+NLTK<br>
+OpenNLP<br>
+Stanford CoreNLP<br>
+
+
+
+AutoML
+============================================
+Auto-Sklearn<br>
+Auto-weka<br>
+Auto-Keras<br>
+MLBox<br>

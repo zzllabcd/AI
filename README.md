@@ -21,15 +21,15 @@
 ===========================================
 1、百度BML(https://cloud.baidu.com/product/bml.html)<br>
 2、百度infinite(https://cloud.baidu.com/product/infinite.html)<br>
-3、阿里PAI(https://data.aliyun.com/product/learn)
-4、腾讯Ti(https://tio.cloud.tencent.com/)
-5、同盾机器学习平台(https://www.tongdun.cn/product/coreFunc/machineLearn)
-6、苏宁机器学习平台(http://www.suningcloud.com/solution/detail/id_261.html)
-7、京东机器学习平台(http://quickai.jd.com)
-8、金山机器学习平台(https://www.ksyun.com/post/product/KML)
-9、微软Azure ML(https://azure.microsoft.com/zh-cn/services/machine-learning-studio/)
-10、联想机器学习平台(https://bigdata.lenovo.com/leapHyperMiner.html)
-11、R2(https://r2ai.com.cn/)
+3、阿里PAI(https://data.aliyun.com/product/learn)<br>
+4、腾讯Ti(https://tio.cloud.tencent.com/)<br>
+5、同盾机器学习平台(https://www.tongdun.cn/product/coreFunc/machineLearn)<br>
+6、苏宁机器学习平台(http://www.suningcloud.com/solution/detail/id_261.html)<br>
+7、京东机器学习平台(http://quickai.jd.com)<br>
+8、金山机器学习平台(https://www.ksyun.com/post/product/KML)<br>
+9、微软Azure ML(https://azure.microsoft.com/zh-cn/services/machine-learning-studio/)<br>
+10、联想机器学习平台(https://bigdata.lenovo.com/leapHyperMiner.html)<br>
+11、R2(https://r2ai.com.cn/)<br>
 
 AI框架<br>
 ===========================================

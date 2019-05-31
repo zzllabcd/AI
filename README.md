@@ -30,7 +30,7 @@
 9、微软Azure ML(https://azure.microsoft.com/zh-cn/services/machine-learning-studio/)<br>
 10、联想机器学习平台(https://bigdata.lenovo.com/leapHyperMiner.html)<br>
 11、R2(https://r2ai.com.cn/)<br>
-12、H2O(
+12、H2O(https://www.h2o.ai/)
 
 AI开发框架<br>
 ===========================================

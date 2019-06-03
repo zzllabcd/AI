@@ -34,11 +34,17 @@
 
 AI开发框架<br>
 ===========================================
-Tensorflow<br>
-SparkMLlib<br>
-Pytorch<br>
-MxNet<br>
-sklearn<br>
+Tensorflow(https://tensorflow.google.cn/)<br>
+SparkMLlib(http://spark.apache.org/mllib/)<br>
+Pytorch(https://pytorch.org/)<br>
+MxNet(http://mxnet.incubator.apache.org/)<br>
+SKlearn(https://scikit-learn.org/stable/)<br>
+Apache Singa(http://singa.incubator.apache.org/en/index.html)<br>
+Apache Mahout(http://mahout.apache.org/)<br>
+PaddlePaddle(http://www.paddlepaddle.org/)<br>
+Keras(https://keras.io/)<br>
+SQLFlow(https://github.com/sql-machine-learning/sqlflow)<br>
+CNTK(https://docs.microsoft.com/en-us/cognitive-toolkit/)<br>
 
 
 
@@ -56,10 +62,12 @@ Stanford CoreNLP<br>
 
 AutoML
 ============================================
-Auto-Sklearn<br>
-Auto-weka<br>
-Auto-Keras<br>
-MLBox<br>
+Auto-Sklearn(https://github.com/automl/auto-sklearn)<br>
+Auto-weka(https://github.com/automl/pyautoweka)<br>
+Auto-Keras(https://autokeras.com/)<br>
+MLBox(https://github.com/AxeldeRomblay/mlbox)<br>
+TransmogrifAI(https://github.com/salesforce/TransmogrifAI)
+Auto-Pytorch(https://github.com/automl/Auto-PyTorch)项目处于早期，只针对特定数据
 
 
 开源模型
@@ -67,9 +75,16 @@ MLBox<br>
 
 NLP
 -----------------------------------------------
-GPT-2<br>
-ERNIE<br>
-BERT<br>
+GPT-2(https://github.com/openai/gpt-2)<br>
+ERNIE(https://github.com/PaddlePaddle/LARK/tree/develop/ERNIE)(预训练模型https://ernie.bj.bcebos.com/ERNIE.tgz)(训练集https://ernie.bj.bcebos.com/task_data.tgz)<br>
+BERT(https://github.com/google-research/bert)<br>
+情感分析Senta--百度(https://github.com/baidu/Senta)<br>
+
+
+知识图谱
+------------------------------------------------
+Protege(https://protege.stanford.edu/products.php)<br>
+
 
 
 语音识别模型
@@ -86,4 +101,16 @@ Google EfficientNets(https://arxiv.org/abs/1905.11946)(https://github.com/tensor
 
 OCR
 -------------------------------------------------
-tesseract(https://github.com/tesseract-ocr/tesseract)
+tesseract(https://github.com/tesseract-ocr/tesseract)<br>
+
+
+机器学习算法包
+--------------------------------------------------
+lightGBM(https://lightgbm.readthedocs.io/en/latest/)<br>
+XGBoost(https://xgboost.readthedocs.io/en/latest/)<br>
+
+
+
+数据集
+=======================================================
+百度(http://ai.baidu.com/broad)<br>

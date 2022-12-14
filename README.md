@@ -102,6 +102,7 @@ Google EfficientNets(https://arxiv.org/abs/1905.11946)(https://github.com/tensor
 OCR
 -------------------------------------------------
 tesseract(https://github.com/tesseract-ocr/tesseract)<br>
+paddleocr(https://github.com/PaddlePaddle/PaddleOCR)<br>
 
 
 机器学习算法包
